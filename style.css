@@ -1,8 +1,0 @@
-.custom-link {
-    text-decoration: underline; /* Underline the link */
-    color: inherit; /* Inherit the color from the parent element */
-}
-
-.custom-link:hover {
-    color: blue; /* Change color to blue on hover */
-}
